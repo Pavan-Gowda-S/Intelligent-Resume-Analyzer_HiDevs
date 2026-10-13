@@ -1,0 +1,42 @@
+*** SYNTHETIC DEMONSTRATION DATA — NOT A REAL PERSON ***
+
+Jordan Mitchell
+jordan.mitchell@example.com
++1 415-555-0192
+
+Summary
+Experienced software engineer with 6 years of backend development expertise.
+Specialised in Python, REST API design, and cloud-native architectures.
+
+Skills
+Python, FastAPI, Flask, REST APIs, PostgreSQL, MySQL, Docker, Kubernetes,
+Git, GitHub, pytest, GitHub Actions, AWS, Linux, pandas, SQL
+
+Work Experience
+
+Senior Software Engineer
+TechCorp Solutions, San Francisco, CA
+Jan 2021 - Present
+
+- Designed and implemented microservices in Python using FastAPI.
+- Maintained PostgreSQL databases and optimised slow queries.
+- Deployed containerised services using Docker and Kubernetes on AWS.
+- Led a team of 3 engineers; conducted code reviews.
+- Wrote comprehensive pytest test suites achieving 85%+ coverage.
+
+Software Engineer
+DataFlow Inc., Remote
+Mar 2018 - Dec 2020
+
+- Built REST APIs in Flask serving 500K+ daily requests.
+- Migrated on-premise services to AWS EC2 and RDS.
+- Implemented CI/CD pipelines using GitHub Actions.
+- Collaborated with data science team to deploy ML models via APIs.
+
+Education
+Bachelor of Science in Computer Science
+University of California, Berkeley — 2018
+
+Certifications
+AWS Certified Developer - Associate (2022)
+Docker Certified Associate (2021)

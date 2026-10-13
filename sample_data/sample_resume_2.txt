@@ -1,0 +1,37 @@
+*** SYNTHETIC DEMONSTRATION DATA — NOT A REAL PERSON ***
+
+Alex Rivera
+alex.rivera@example.com
++1 512-555-0344
+
+Professional Summary
+Mid-level developer with 3 years of experience in web application development.
+Proficient in Python and React. Looking to grow into a backend engineering role.
+
+Technical Skills
+Python, Flask, React, JavaScript, HTML, CSS, MySQL, Git, Linux, REST APIs
+
+Work Experience
+
+Web Developer
+StartupHub, Austin TX
+Jun 2021 - Present
+
+- Developed and maintained web applications using Flask (Python) and React.
+- Designed MySQL database schemas for client management system.
+- Integrated third-party REST APIs for payment processing.
+- Used Git for version control on a team of 5.
+
+Junior Developer
+Freelance / Self-employed
+2020 - Jun 2021
+
+- Built small websites and landing pages for local businesses.
+- Primarily worked with HTML, CSS, and JavaScript.
+
+Education
+Bachelor of Engineering in Information Technology
+Texas A&M University — 2020
+
+Certifications
+None listed.

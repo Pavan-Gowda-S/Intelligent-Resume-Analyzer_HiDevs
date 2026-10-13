@@ -1,10 +1,59 @@
-# Python
-__pycache__/
-*.py[cod]
+# Python virtual environments
+.venv/
 venv/
 env/
-.DS_Store
-node_modules/
-.idea/
+ENV/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+coverage.xml
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
 .vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Application data — these may contain personal information
+data/*.json
+reports/*
+!reports/.gitkeep
+
+# Uploaded resume files (never committed)
+uploads/
+*.upload
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment config (may contain secrets)
+.env.local
+.env.production
+
+# Log files
 *.log
+logs/
